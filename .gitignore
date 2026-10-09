@@ -1,0 +1,18 @@
+# Entornos virtuales e instalación
+.venv/
+env/
+__pycache__/
+
+# Archivos de configuración con contraseñas o credenciales
+.env
+secrets/
+
+# Archivos de log
+*.log
+*.exe
+mongosh.exe
+.venv/
+__pycache__/
+.env
+secrets/
+*.log
